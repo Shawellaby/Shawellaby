@@ -11,7 +11,7 @@ If you'd like to get in touch with me, you can [catch me over at LinkedIn](https
 ## 🌟 GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawellaby&layout=compact&langs_count=8&theme=dark" alt="My GitHub stats" />
-[![Shawellaby's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=shawellaby&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/shawellaby)
+[![Shawellaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawellaby)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Shawellaby/Shawellaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
