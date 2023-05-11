@@ -9,7 +9,7 @@ I cut my teeth on the Altair 8800 my family bought as a kit and assembled. I mov
 If you'd like to get in touch with me, you can [catch me over at LinkedIn](https://www.linkedin.com/in/scottregitz).
 
 ### 🌟 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawellaby&layout=compact&langs_count=8&theme=dark&count_private=true" alt="My GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shawellaby&show_icons=true&count_private=true&hide=contribs,issues&theme=dark" alt="My top languages" />
 <!--
 **Shawellaby/Shawellaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
