@@ -4,6 +4,8 @@ I am a Senior Software Engineer with concentration on the Microsoft Programming 
 
 I cut my teeth on the Altair 8800 my family bought as a kit and assembled. I moved from that to the Z80 (TRS-80) and eventually on to the 6502. I learned ASM and BASIC in all of these processors. After I moved on to the x86 family I spent several years working on software in both Delphi and C/C++ up to the 486 days before taking a short sidebar over to the Motorola 68000, writing ASM on the Atari ST. Eventually explored LINGO! and a few other languages before moving into C# and .Net. I spend most of my time writing Web Apps or C++ IOT projects now.
 
+Currently I lead technical strategy and architecture for Houston Computer Consulting. We are a Houston-based firm with local consultants functioning as an outsourced Information Technology department for small to medium size businesses. We are your source for custom application development, websites and computer consulting services.
+
 ### 📫 Contact Me
 
 If you'd like to get in touch with me, you can [catch me over at LinkedIn](https://www.linkedin.com/in/scottregitz).
