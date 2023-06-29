@@ -8,7 +8,7 @@ Currently I lead technical strategy and architecture for Houston Computer Consul
 
 I am an accomplished technology expert and entrepreneur in the field of computer consulting, with a strong focus on providing comprehensive IT solutions to businesses in Houston and beyond. With an unwavering passion for technology and a keen understanding of the ever-evolving industry, I have established myself as a trusted advisor to numerous organizations seeking to optimize their IT infrastructure and operations.
 
-With a background in computer science and years of hands-on experience, I possess a deep understanding of the complex IT landscape and stays up to date with the latest advancements. My expertise spans a wide range of areas, including network design and implementation, cloud computing, cybersecurity, software development, and IT project management.
+With a background in computer science and years of hands-on experience, I possess a deep understanding of the complex IT landscape and stay up to date with the latest advancements. My expertise spans a wide range of areas, including network design and implementation, cloud computing, cybersecurity, software development, and IT project management.
 
 As the CTO of Houston Computer Consulting, I have built a reputation for delivering tailored, innovative solutions that address the unique needs and challenges faced by businesses of all sizes. I take a collaborative approach, working closely with clients to assess their requirements, develop strategic IT roadmaps, and implement robust systems that enhance productivity, efficiency, and overall business performance.
 
