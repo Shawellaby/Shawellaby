@@ -24,6 +24,7 @@ If you'd like to get in touch with me, you can [catch me over at LinkedIn](https
 ### 🌟 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shawellaby&show_icons=true&count_private=true&hide=contribs,issues&theme=dark" alt="My top languages" />
 
+![](https://raw.githubusercontent.com/shawellaby/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 <!--
 **Shawellaby/Shawellaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
