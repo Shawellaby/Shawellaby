@@ -25,6 +25,7 @@ If you'd like to get in touch with me, you can [catch me over at LinkedIn](https
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shawellaby&show_icons=true&count_private=true&hide=contribs,issues&theme=dark" alt="My top languages" />
 
 I'm still working on the accuracy of the below charts.
+
 ![](https://raw.githubusercontent.com/shawellaby/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/shawellaby/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
