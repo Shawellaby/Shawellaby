@@ -4,7 +4,7 @@ I am a Senior Software Engineer with concentration on the Microsoft Programming 
 
 I cut my teeth on the Altair 8800 my family bought as a kit and assembled. I moved from that to the Z80 (TRS-80) and eventually on to the 6502 (Atari 2600 -> Atari 400 -> Atari 1200xl). I learned ASM and BASIC in all of these processors. After I moved on to the x86 family I spent several years working on software in both Delphi and C/C++ up to the 486 days before taking a short sidebar over to the Motorola 68000, writing ASM on the Atari ST. Eventually explored LINGO! and a few other languages before moving into C# and .Net. I spend most of my time writing Web Apps or C++ IOT projects now.
 
-Currently I lead technical strategy and architecture for Houston Computer Consulting. We are a Houston-based firm with local consultants functioning as an outsourced Information Technology department for small to medium size businesses. We are your source for custom application development, websites and computer consulting services.
+Houston Computer Consulting is a Houston-based firm with local consultants functioning as an outsourced Information Technology department for small to medium size businesses. We are your source for custom application development, websites and computer consulting services.
 
 I am an accomplished technology expert and entrepreneur in the field of computer consulting, with a strong focus on providing comprehensive IT solutions to businesses in Houston and beyond. With an unwavering passion for technology and a keen understanding of the ever-evolving industry, I have established myself as a trusted advisor to numerous organizations seeking to optimize their IT infrastructure and operations.
 
