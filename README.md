@@ -19,7 +19,7 @@ Beyond my professional endeavors, I am dedicated to staying engaged with the tec
 With my extensive knowledge, entrepreneurial spirit, and dedication to client success, I continue to be a driving force in the world of computer consulting, enabling businesses to harness the power of technology for sustained growth and competitiveness.
 ### 📫 Contact Me
 
-If you'd like to get in touch with me, you can [catch me over at LinkedIn](https://www.linkedin.com/in/scottregitz).
+If you'd like to get in touch with me, you can [catch me over at LinkedIn](https://www.linkedin.com/in/scottregitz) or [Twitter](https://twitter.com/shawellaby)
 <!--
 ### 🌟 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shawellaby&show_icons=true&count_private=true&hide=contribs,issues&theme=dark" alt="My top languages" />
