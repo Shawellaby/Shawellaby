@@ -18,11 +18,12 @@ I am a seasoned Senior Software Engineer specializing in the Microsoft Programmi
 
 **Leadership & Expertise:** As CTO, I am committed to delivering tailored, innovative IT solutions that address the unique challenges faced by businesses. My collaborative approach ensures that clients receive strategic IT roadmaps and robust systems to enhance productivity and efficiency. My expertise includes:
 
-  * **Software development**
-  * **Cloud computing**
-  * **Network design and implementation**
-  * **Cybersecurity**
-  * **IT project management**
+  * **Custom Software development**
+  * **Web Development**
+  * **Software Consulting**
+  * **Quality Assurance and Testing**
+  * **Maintenance and Support**
+  * **Business Enhancement**
 
 **Community Engagement:** Beyond my professional role, I actively engage with the tech community through conferences, seminars, and workshops, sharing insights and fostering knowledge-sharing among peers and aspiring technologists.
 
