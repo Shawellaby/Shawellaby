@@ -1,22 +1,32 @@
 ### Hi there 👋
 
-I am a Senior Software Engineer with concentration on the Microsoft Programming Stack. I currently lead technical strategy and architecture for Houston Computer Consulting. I have over 30 years of experience designing and programming solutions for medical, financial, petroleum as well as start-ups in various industries including warehousing, delivery, refining, chemical, power and aerospace. In addition to my capabilities working with technical teams I have a solid background in Design (Graphic Communications) and a long history of internet development using a multitude of strategies and packages.
+**Senior Software Engineer & CTO | Houston Computer Consulting**
 
-I cut my teeth on the Altair 8800b my family bought as a kit and assembled. I moved from that to the Z80 (TRS-80) and eventually on to the 6502 (Atari 2600 -> Atari 400 -> Atari 1200xl). I learned ASM and BASIC in all of these processors. After I moved on to the x86 family I spent several years working on software in both Delphi and C/C++ up to the 486 days before taking a short sidebar over to the Motorola 68000, writing ASM on the Atari ST. Eventually explored LINGO! and a few other languages before moving into C# and .Net. I spend most of my time writing Web Apps or C++ IOT projects now.
+I am a seasoned Senior Software Engineer specializing in the Microsoft Programming Stack, currently steering the technical strategy and architecture at Houston Computer Consulting. With over 30 years of experience, I have crafted solutions across a multitude of sectors including medical, financial, petroleum, and start-ups spanning warehousing, delivery, refining, chemical, power, and aerospace.
 
-Houston Computer Consulting is a Houston-based firm with local consultants functioning as an outsourced Information Technology department for small to medium size businesses. We are your source for custom application development, websites and computer consulting services.
+**Technical Skills & Experience:**
 
-I am an accomplished technology expert and entrepreneur in the field of computer consulting, with a strong focus on providing comprehensive IT solutions to businesses in Houston and beyond. With an unwavering passion for technology and a keen understanding of the ever-evolving industry, I have established myself as a trusted advisor to numerous organizations seeking to optimize their IT infrastructure and operations.
+ * **Software Development:** Expertise in C#, .NET, Delphi, C/C++, and ASM, spanning from early microprocessor programming (Altair 8800b, TRS-80, Atari series) to contemporary web applications and IoT projects.
 
-With a background in computer science and years of hands-on experience, I possess a deep understanding of the complex IT landscape and stay up to date with the latest advancements. My expertise spans a wide range of areas, including network design and implementation, cloud computing, cybersecurity, software development, and IT project management.
+ * **Design Background:** Strong foundation in Graphic Communications, coupled with extensive internet development experience using a variety of strategies and tools.
 
-As the CTO of Houston Computer Consulting, I have built a reputation for delivering tailored, innovative solutions that address the unique needs and challenges faced by businesses of all sizes. I take a collaborative approach, working closely with clients to assess their requirements, develop strategic IT roadmaps, and implement robust systems that enhance productivity, efficiency, and overall business performance.
+ * **Innovative Solutions:** Proficient in developing custom applications, websites, and providing comprehensive IT consulting services tailored to client needs.
 
-My commitment to excellence is reflected in my team's ability to provide outstanding customer service and support. With a focus on building long-term partnerships, Houston Computer Consulting ensures that clients receive ongoing technical assistance, proactive monitoring, and timely resolution of IT issues.
+**Professional Journey:** From assembling an Altair 8800b with my family, to mastering early processors like the Z80 and 6502, my journey has been rich and varied. I've evolved through the x86 family, delved into Motorola 68000 assembly language on the Atari ST, and eventually embraced modern languages like C# and .NET. My passion lies in crafting web apps and IoT projects that push the boundaries of innovation.
 
-Beyond my professional endeavors, I am dedicated to staying engaged with the tech community and promoting knowledge-sharing. I frequently participate in industry conferences, seminars, and workshops, where I share my insights and expertise with peers and aspiring technology professionals.
+**About Houston Computer Consulting:** Houston Computer Consulting is a dedicated firm offering outsourced IT solutions to small and medium-sized businesses. Our services encompass custom application development, website creation, and comprehensive IT consulting. We pride ourselves on delivering exceptional service and building long-term client partnerships.
 
-With my extensive knowledge, entrepreneurial spirit, and dedication to client success, I continue to be a driving force in the world of computer consulting, enabling businesses to harness the power of technology for sustained growth and competitiveness.
+**Leadership & Expertise:** As CTO, I am committed to delivering tailored, innovative IT solutions that address the unique challenges faced by businesses. My collaborative approach ensures that clients receive strategic IT roadmaps and robust systems to enhance productivity and efficiency. My expertise includes:
+
+  * **Software development**
+  * **Cloud computing**
+  * **Network design and implementation**
+  * **Cybersecurity**
+  * **IT project management**
+
+**Community Engagement:** Beyond my professional role, I actively engage with the tech community through conferences, seminars, and workshops, sharing insights and fostering knowledge-sharing among peers and aspiring technologists.
+
+With a profound understanding of the IT landscape, an entrepreneurial spirit, and a dedication to client success, I remain a driving force in computer consulting, empowering businesses to leverage technology for sustainable growth and competitiveness.
 ### 📫 Contact Me
 
 If you'd like to get in touch with me, you can catch me over at [LinkedIn](https://www.linkedin.com/in/scottregitz) or [Twitter](https://twitter.com/shawellaby)
