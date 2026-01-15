@@ -12,7 +12,7 @@ I am a seasoned Senior Software Engineer specializing in the Microsoft Programmi
 
  * **Innovative Solutions:** Proficient in developing custom applications, websites, and providing comprehensive IT consulting services tailored to client needs, focused on efficiency gains.
 
-**Professional Journey:** From assembling an Altair 8800b with my family, to mastering early processors like the Z80 and 6502, my journey has been rich and varied. I've evolved through the x86 family, delved into Motorola 68000 assembly language on the Atari ST, and eventually embraced modern languages like C# and .NET. My passion lies in crafting web apps and IoT projects that push the boundaries of innovation.
+**Professional Journey:** From assembling an Altair 8800b with my family, to mastering early processors like the Z80 and 6502, my journey has been rich and varied. I've evolved through the x86 family, delved into Motorola 68000 assembly language on the Atari ST, and eventually embraced modern languages like C# and .NET. I delved deep into the VAX VMS and PDP11 machines during my high school and college years. My passion lies in crafting web apps and IoT projects that push the boundaries of innovation.
 
 **About Houston Computer Consulting:** Houston Computer Consulting is a dedicated firm offering outsourced IT solutions to small and medium-sized businesses. Our services encompass custom application development, website creation, and comprehensive IT consulting. We pride ourselves on delivering exceptional service and building long-term client partnerships.
 
