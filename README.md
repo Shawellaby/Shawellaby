@@ -8,7 +8,7 @@ I am a seasoned Senior Software Engineer specializing in the Microsoft Programmi
 
  * **Software Development:** Expertise in C#, .NET, Delphi, C/C++, and ASM, spanning from early microprocessor programming (Altair 8800b, TRS-80, Atari series) to contemporary web applications and IoT projects.
 
- * **Design Background:** Strong foundation in Graphic Communications, coupled with extensive internet development experience using a variety of strategies and tools.
+ * **Design Background:** Strong foundation (Bachelor Fine Arts) in Graphic Communications, coupled with extensive internet development experience using a variety of strategies and tools.
 
  * **Innovative Solutions:** Proficient in developing custom applications, websites, and providing comprehensive IT consulting services tailored to client needs, focused on efficiency gains.
 
